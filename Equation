@@ -1,0 +1,16 @@
+class Abc
+{
+    public static double Find_X(double a,double b)
+    {
+          double p =Math.sqrt(((3*a)+1)/b);
+            System .out.println(p);
+        return 0;
+    }
+    
+    public static void main(String args[])
+    {
+        double a=2.4;
+        double b=3.5;
+        Find_X(a,b);
+    }
+}

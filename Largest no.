@@ -19,3 +19,7 @@ class Test
 		System.out.println("Largest in given array is " + largest());
 		}
 }
+
+
+OUTPUT:
+Largest in given array is 9808
